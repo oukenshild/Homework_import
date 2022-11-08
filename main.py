@@ -8,4 +8,3 @@ if __name__ == '__main__':
     calculate_salary()
     get_employees()
     print(datetime.today())
-    TelegramBot.bot.start_polling()
